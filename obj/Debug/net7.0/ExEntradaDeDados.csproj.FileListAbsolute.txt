@@ -1,0 +1,15 @@
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\bin\Debug\net7.0\ExEntradaDeDados.exe
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\bin\Debug\net7.0\ExEntradaDeDados.deps.json
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\bin\Debug\net7.0\ExEntradaDeDados.runtimeconfig.json
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\bin\Debug\net7.0\ExEntradaDeDados.dll
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\bin\Debug\net7.0\ExEntradaDeDados.pdb
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\obj\Debug\net7.0\ExEntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\obj\Debug\net7.0\ExEntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\obj\Debug\net7.0\ExEntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\obj\Debug\net7.0\ExEntradaDeDados.AssemblyInfo.cs
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\obj\Debug\net7.0\ExEntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\obj\Debug\net7.0\ExEntradaDeDados.dll
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\obj\Debug\net7.0\refint\ExEntradaDeDados.dll
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\obj\Debug\net7.0\ExEntradaDeDados.pdb
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\obj\Debug\net7.0\ExEntradaDeDados.genruntimeconfig.cache
+C:\Users\cmsou\soucer\Dotnet\outros\ExEntradaDeDados\obj\Debug\net7.0\ref\ExEntradaDeDados.dll
